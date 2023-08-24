@@ -13,6 +13,11 @@ Para la realización de este trabajo utilice Python con las siguientes librerias
 * mysql: para alojar mis datos en un servidor
 * phpmyadmin: para manejar la base de datos -- todavía no pude hacerlo andar como corresponde
   
+Para acceder a phpmyadmin se utilizan los siguientes datos:
+
+* usuario: root
+* ip address: 172.19.0.2
+* contraseña: naitais
 
 
 
