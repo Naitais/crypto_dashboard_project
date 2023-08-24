@@ -1,12 +1,18 @@
 version: '3'
 services:
   db:
-    image: mysql
+    image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: naitais
+    ports:
+      - "3306:3306"
+    volumes:
+      - db-data:/var/lib/mysql
   phpmyadmin:
     image: phpmyadmin
     environment:
       PMA_ARBITRARY: 1
     ports:
       - "8080:80"
+volumes:
+  db-data:
