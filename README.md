@@ -19,5 +19,12 @@ Para acceder a phpmyadmin se utilizan los siguientes datos:
 * ip address: 172.19.0.2
 * contraseña: naitais
 
+Para acceder e importar las tablas hacia PowerBI utilizando como conexion el contenedor de Docker con MySQL:
 
+* Servidor: localhost:3306
+* Base de datos: criptomonedas
+
+DISCLAIMER: Tuve que instalar el siguiente conector de MySQL para poder realizar la conexion:
+* Me sirvio la 8.0.28
+https://downloads.mysql.com/archives/c-net/
 
