@@ -9,9 +9,9 @@ Para la realización de este trabajo utilice Python con las siguientes librerias
 * Matplotlib y seaborn: para la visualización de los datos
 * pycoingecko: para obtener los datos necesarios para el análisis de criptomonedas desde la API de CoinGecko
 * sqlalchemy: para conectar mi base de datos mysql a Python
-* docker: para levantar una instancia de mysql y phpmyadmin para visualización y manejo de la base de datos
-* mysql: para alojar mis datos en un servidor
-* phpmyadmin: para manejar la base de datos -- todavía no pude hacerlo andar como corresponde
+* docker: para virtualizar aplicaciones (mysql, phpmyadmin)
+* mysql(contenedor): para alojar mis datos en un servidor
+* phpmyadmin(contenedor): para manejar la base de datos
   
 Para acceder a phpmyadmin se utilizan los siguientes datos:
 
