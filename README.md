@@ -1,6 +1,6 @@
  # Análisis de criptomonedas
 
-![imagen animada duda sobre criptomonedas](https://assets.bitdegree.org/crypto/storage/media/types-of-cryptocurrency-1.o.png)
+![imagen animada Galicia duda sobre criptomonedas](galicia_duda_imagen_readme.png)
 
 El objetivo de este trabajo es recomendar 10 criptomonedas como potenciales activos de inversión que una empresa ofrecerá a sus clientes cuando es el primer acercamiento de la empresa al mundo de las criptomonedas. Accediendo a los datos brindados por la libreria y [API de CoinGecko](https://www.coingecko.com/es/api "Sitio oficial de la API de CoinGecko"), recupere la información necesaria y según las KPIs detalladas en el siguiente [informe](https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing "Informe del análisis para la Empresa Galicia"), realice este analisis para la empresa Galicia.
 
