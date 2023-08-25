@@ -2,7 +2,7 @@
 
 ![imagen animada duda sobre criptomonedas](https://assets.bitdegree.org/crypto/storage/media/types-of-cryptocurrency-1.o.png)
 
-El objetivo de este trabajo es recomendar 10 criptomonedas como potenciales activos de inversión que una empresa ofrecerá a sus clientes cuando es el primer acercamiento de la empresa al mundo de las criptomonedas. Accediendo a los datos brindados por la libreria y [API de CoinGecko](https://www.coingecko.com/es/api "Title Tooltip"), recupere la información necesaria y según las KPIs detalladas en el siguiente [informe](https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing "Informe del análisis para la Empresa Galicia"), realice este analisis para la empresa Galicia.
+El objetivo de este trabajo es recomendar 10 criptomonedas como potenciales activos de inversión que una empresa ofrecerá a sus clientes cuando es el primer acercamiento de la empresa al mundo de las criptomonedas. Accediendo a los datos brindados por la libreria y [API de CoinGecko](https://www.coingecko.com/es/api "Sitio oficial de la API de CoinGecko"), recupere la información necesaria y según las KPIs detalladas en el siguiente [informe](https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing "Informe del análisis para la Empresa Galicia"), realice este analisis para la empresa Galicia.
 
 
 Para la realización de este trabajo utilice [Python](https://www.python.org "Sitio oficial de Python") con las siguientes librerias y/o herramientas:
@@ -11,7 +11,7 @@ Para la realización de este trabajo utilice [Python](https://www.python.org "Si
 * Jupyter Notebooks: para realizar mi EDA
 * Pandas: para el manejo de dataframes y análisis de los mismos
 * Matplotlib y seaborn: para la visualización de los datos
-* pycoingecko: para obtener los datos necesarios para el análisis de criptomonedas desde la [API de CoinGecko](https://www.coingecko.com/es/api "Title Tooltip")
+* pycoingecko: para obtener los datos necesarios para el análisis de criptomonedas desde la [API de CoinGecko](https://www.coingecko.com/es/api "Sitio oficial de la API de CoinGecko")
 * sqlalchemy: para conectar mi base de datos mysql a [Python](https://www.python.org "Sitio oficial de Python")
 * [docker](https://www.docker.com "Sitio oficial de Docker"): para virtualizar aplicaciones (mysql, phpmyadmin)
 * mysql(contenedor): para alojar mis datos en un servidor
@@ -43,9 +43,9 @@ Para acceder e importar las tablas hacia PowerBI utilizando como conexión el co
 DISCLAIMER: Tuve que instalar el siguiente [conector](https://downloads.mysql.com/archives/c-net/ "Conector para MySQL") de MySQL para poder realizar la conexión:
 * Me sirvio la versión 8.0.28
 
-Dejo link del informe:
+[Link del informe](https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing "Informe del análisis para la Empresa Galicia") para la empresa Galicia donde explico a detalle mi análisis, su fundamento y la conclusión.
 
-https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing
+
 
 
 
