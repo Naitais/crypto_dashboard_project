@@ -28,3 +28,7 @@ DISCLAIMER: Tuve que instalar el siguiente conector de MySQL para poder realizar
 * Me sirvio la 8.0.28
 https://downloads.mysql.com/archives/c-net/
 
+Dejo link del informe:
+
+https://docs.google.com/document/d/1MAs2yQH-5Fit2iPd_nDZh_lDzxjvtTkYZRD7rsedg_U/edit?usp=sharing
+
